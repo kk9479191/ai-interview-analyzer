@@ -44,7 +44,12 @@ ai-interview-analyzer/
 👉 https://karan2563.pythonanywhere.com  
 ⚠️ Note: The live demo is deployed on a free hosting service and may go inactive. Please refer to the GitHub repository for full project code and setup instructions.
 
+🎥 Demo
 
+A quick demonstration of the AI Interview Analyzer showcasing real-time emotion detection, speech input, and AI-based scoring.
+
+▶️ Watch Demo Video:
+https://drive.google.com/file/d/1cth5-qHwuGC8TPrOsKx39r94tfIPnXQU/view?usp=sharing
 
 💡 Future Improvements
 

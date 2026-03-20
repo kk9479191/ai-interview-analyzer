@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>AI Interview Analyzer</title>
+
+<link rel="stylesheet"
+href="{{ url_for('static', filename='css/style.css') }}">
+
+<link rel="stylesheet"
+href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+
+</head>
+
+<body>
+
+<div class="container mt-5">
+
+<h2 class="text-center">AI Interview Analyzer</h2>
+
+<div class="card p-4 mt-4">
+
+<form action="/interview" method="post">
+
+<label>Candidate Name</label>
+
+<input class="form-control" type="text" name="name" required>
+
+<br>
+
+<button class="btn btn-primary w-100">
+Start Interview
+</button>
+
+</form>
+
+</div>
+
+</div>
+
+</body>
+</html>

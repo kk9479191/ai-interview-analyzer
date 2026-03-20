@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<div class="text-center">
+
+<h1>AI Powered Interview Analyzer</h1>
+
+
+<form action="/interview" method="post">
+
+<input type="text"
+class="form-control"
+name="name"
+placeholder="Enter your name"
+required>
+
+<br>
+
+<button class="btn btn-primary">
+Start Interview
+</button>
+
+</form>
+
+</div>
+
+{% endblock %}

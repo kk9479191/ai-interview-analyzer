@@ -1,0 +1,30 @@
+body{
+background:#f4f6f9;
+font-family:Arial;
+}
+
+.container{
+max-width:700px;
+}
+
+.card{
+border-radius:12px;
+box-shadow:0 6px 12px rgba(0,0,0,0.1);
+}
+
+video{
+border-radius:10px;
+margin-bottom:20px;
+border:2px solid #ddd;
+}
+
+textarea{
+font-size:16px;
+}
+
+.question {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #222;
+}

@@ -42,6 +42,9 @@ ai-interview-analyzer/
 🌐 Live Demo
 
 👉 https://karan2563.pythonanywhere.com  
+⚠️ Note: The live demo is deployed on a free hosting service and may go inactive. Please refer to the GitHub repository for full project code and setup instructions.
+
+
 
 💡 Future Improvements
 
